@@ -1,4 +1,4 @@
-# greencycles-data-analytics-Project
+# SQL Case Study – GreenCYCLES Online Movie Rental Database
 Description - SQL project analyzing data from GreenCYCLES, a fictional movie rental business. Includes schema, seed data, and 15+ queries solving real-world business problems. As a data analyst, I performed queries on the company’s database to extract meaningful insights, support decision-making, and improve operational efficiency. This project covers queries ranging from basic data retrieval to advanced analytics using SQL functions, aggregation, and grouping.
 
 Objectives
